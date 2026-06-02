@@ -1,0 +1,19 @@
+LTspice 24.0.9 for Windows
+Circuit: * D:\udyam\commnet\ps1\commnet_ps1_kaiser.asc
+Start Time: Thu May 22 12:06:23 2025
+solver = Normal
+Maximum thread count: 24
+tnom = 27
+temp = 27
+method = modified trap
+Instance "m1": Length shorter than recommended for a level 1 MOSFET.
+Instance "m2": Length shorter than recommended for a level 1 MOSFET.
+Instance "m5": Length shorter than recommended for a level 1 MOSFET.
+Instance "m8": Length shorter than recommended for a level 1 MOSFET.
+Instance "m7": Length shorter than recommended for a level 1 MOSFET.
+Instance "m4": Length shorter than recommended for a level 1 MOSFET.
+Instance "m6": Length shorter than recommended for a level 1 MOSFET.
+Instance "m3": Length shorter than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.107 seconds.
+
