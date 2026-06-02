@@ -48,8 +48,8 @@ Assuming a constant channel length of $L = 1\mu m$:
 | **M6** | PMOS | 628.32 |
 | **M7** | NMOS | 691.68 |
 
-> *Tail current ($I_5$) was calculated to be 840 $\mu A$.*
-> 
+*Tail current ($I_5$) was calculated to be 840 $\mu A$.*
+ 
 
 ## Simulation Results
 
